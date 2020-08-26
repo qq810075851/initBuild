@@ -1,0 +1,18 @@
+{
+  "name": "bargaining",
+  "version": "1.0.0",
+  "description": "女王美砍价模块",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:zhang_shao_qiang/bargaining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vconsole": "^3.3.4"
+  }
+}
